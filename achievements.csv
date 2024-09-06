@@ -1,0 +1,9 @@
+Subnet Name,Subnet Number,Description,Link
+OMEGA Any-to-Any,21,Produced a multimodal model that is competitive with larger open-source models,https://x.com/omegalabsai/status/1825641368485507416
+Vision,19,Average of 45 tokens-per-second on Mixtral LLM,https://x.com/namoray_dev/status/1825810385817030923
+OMEGA Labs,24,"Collected 69M rows of multi-modal data using, receiving over 123k downloads on HuggingFace",https://x.com/omegalabsai/status/1825641370536562725
+Protein Folding,25,"Simulated over 70,000 unique protein foldings in 2 months",https://x.com/MacrocosmosAI/status/1818649585864102354
+Dataverse,13,Scraped over 702 million rows of anonymized open-source Reddit data,https://x.com/MacrocosmosAI/status/1815754783002853583
+Targon,4,Hit 2286 tokens-per-second on Llama 3 8B,https://x.com/DavFields/status/1824489392725168190
+Dippy,11,Produced model that performs better than GPT 3.5 Turbo and Llama3 8B on the EQBench benchmark,https://x.com/angad_ai/status/1824125266647503162
+Pre-Training,9,"Produced a model that surpassed Llama-2 7B, using a cluster 50x smaller than Meta's",https://x.com/TensorplexLabs/status/1793281513368498191
